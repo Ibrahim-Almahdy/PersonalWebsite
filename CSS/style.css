@@ -82,7 +82,7 @@ nav > ul > li {
 
 #newsletter input[type="email"] {
   padding: 4px;
-  height: 22px;
+  /* height: 22px; */
   width: 250px;
   flex-grow: 5;
 }
