@@ -134,3 +134,9 @@ footer {
     flex-direction: column;
   }
 }
+
+@media (max-width: 390px) {
+  #header {
+    padding: 0 20px;
+  }
+}
