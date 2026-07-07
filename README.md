@@ -8,7 +8,7 @@ https://ibrahim-almahdy.github.io/PersonalWebsite/
 
 ## Preview
 
-![Personal Website Preview](./img/preview.png)
+![Personal Website Preview](readme.png)
 
 ## Features
 
